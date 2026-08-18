@@ -2,11 +2,11 @@
 
 A normalized relational database engineered in 3NF with 12+ tables supporting bookstore operations including inventory management, customer transactions, order processing, and reviews.
 
-## Dataset & Schema Resources
+## Project Documentation & Technical Report
 
+* **Download Technical PDF Report**: [Technical_Report_Virtual_Bookstore_DBMS.pdf](Technical_Report_Virtual_Bookstore_DBMS.pdf)
 * **Relational Schema DDL**: Available in `sql/schema.sql` (3NF Normalized)
-* **Complex Queries Suite**: Available in `sql/queries.sql` (30+ SQL queries featuring CTEs, Window Functions, and Joins)
-* **Database Runner**: `db_manager.py` for automated SQLite database instantiation
+* **Complex Queries Suite**: Available in `sql/queries.sql` (30+ SQL queries featuring CTEs and Window Functions)
 
 ## Key Features
 
